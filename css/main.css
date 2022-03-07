@@ -269,17 +269,17 @@ main h1{
 }
 main .carousel-inner .carousel-item:nth-child(1){
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.8)),
-    url(img/Main/image\ 1.png);
+    url('../img/Main/image\ 1.png');
     height: 800px;
 }
 main .carousel-inner .carousel-item:nth-child(2){
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.8)),
-    url(img/Main/image\ 2.png);
+    url('../img/Main/image\ 2.png');
     height: 800px;
 }
 main .carousel-inner .carousel-item:nth-child(3){
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.8)),
-    url(img/Main/image\ 2.png);
+    url('../img/Main/image\ 2.png');
     height: 800px;
 }
 
